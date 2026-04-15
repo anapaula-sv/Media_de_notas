@@ -1,26 +1,27 @@
-## 🧮 Calculadora Simples em Python
-Calculadora de operações básicas desenvolvida em Python com o objetivo de praticar lógica de programação, estrutura de funções e entrada de dados pelo usuário.
+📊 Cálculo de Média em Python
+Programa desenvolvido em Python para calcular a média de três notas e verificar aprovação, com validação de entrada de dados.
 
-# 💡 Sobre o projeto
-Este projeto foi desenvolvido como parte dos meus estudos iniciais em Python. Apesar de simples, ele consolida conceitos fundamentais como definição de funções, controle de fluxo e interação com o usuário via terminal.
+📌 Sobre o projeto
+Desenvolvido durante meus estudos em Python, com foco em praticar lógica de programação, estruturas de repetição e validação de dados inseridos pelo usuário.
 
 # ⚙️ Funcionalidades
-- Soma
-- Subtração
-- Multiplicação
-- Divisão (com tratamento para divisão por zero)
 
-# 🛠️ Tecnologia utilizada
+- Entrada de 3 notas pelo usuário
+- Validação dos valores (aceita apenas entre 0 e 10)
+- Cálculo automático da média
+- Exibição do resultado: aprovado ou reprovado
 
-Python 3
+🛠️ Tecnologia utilizada
+
+- Python 3
 
 # ▶️ Como executar
-bashgit clone https://github.com/anapaula-sv/Calculadora-simples
-cd Calculadora-simples
-python calculadora.py
+bashgit clone https://github.com/anapaula-sv/Media_de_notas
+cd Media_de_notas
+python media.py
 
-# 📚 O que aprendi
+# 🧠 Conceitos aplicados
 
-Criação e chamada de funções em Python
-Uso de condicionais para controle de operações
-Boas práticas de organização de código
+- Estruturas de repetição (while)
+- Condicionais (if/else)
+- Validação de entrada de dados
