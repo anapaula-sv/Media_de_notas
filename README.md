@@ -5,10 +5,10 @@ Calculadora de operações básicas desenvolvida em Python com o objetivo de pra
 Este projeto foi desenvolvido como parte dos meus estudos iniciais em Python. Apesar de simples, ele consolida conceitos fundamentais como definição de funções, controle de fluxo e interação com o usuário via terminal.
 
 # ⚙️ Funcionalidades
-Soma
-Subtração
-Multiplicação
-Divisão (com tratamento para divisão por zero)
+- Soma
+- Subtração
+- Multiplicação
+- Divisão (com tratamento para divisão por zero)
 
 # 🛠️ Tecnologia utilizada
 
