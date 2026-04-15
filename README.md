@@ -1,7 +1,7 @@
-📊 Cálculo de Média em Python
+## 📊 Cálculo de Média em Python
 Programa desenvolvido em Python para calcular a média de três notas e verificar aprovação, com validação de entrada de dados.
 
-📌 Sobre o projeto
+# 📌 Sobre o projeto
 Desenvolvido durante meus estudos em Python, com foco em praticar lógica de programação, estruturas de repetição e validação de dados inseridos pelo usuário.
 
 # ⚙️ Funcionalidades
@@ -11,7 +11,7 @@ Desenvolvido durante meus estudos em Python, com foco em praticar lógica de pro
 - Cálculo automático da média
 - Exibição do resultado: aprovado ou reprovado
 
-🛠️ Tecnologia utilizada
+# 🛠️ Tecnologia utilizada
 
 - Python 3
 
